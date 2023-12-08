@@ -1,11 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nishant-Tiwari24.nishant-Tiwari24" />
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+its+Nishant !;+There's+no+place+like+127.0.0.1;" />
-</h1>
-
-
-
-
 <h2 align="center"> Platforms to Connent </h2>
 
 <div align="center"> 
