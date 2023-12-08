@@ -7,7 +7,6 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,tailwind,nodejs,express,react,jquery" />
 </div>
 <br/>
-<p align="center"> Project learning of Backend tools like Nodejs,Express and React is in progress 👾 </p>
 
 <br/>
 <hr/>
