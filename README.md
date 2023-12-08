@@ -1,22 +1,4 @@
-<h2 align="center"> Platforms to Connent </h2>
 
-<div align="center"> 
-  <a href="mailto:nishanttiwarii320@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/in/its.nishaant" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://github.com/its-nishant320" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-    <a href="https://www.linkedin.com/in/nishant-tiwari-75a834291/">
-    <img src="https://img.shields.io/badge/linkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" />
-</div>
-
-<br/>
-
- <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <!-- <br/> -->
