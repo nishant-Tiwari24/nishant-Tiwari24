@@ -1,18 +1,4 @@
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<!-- <br/> -->
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,scss,git,postman" /><br>
-    <img src="https://skillicons.dev/icons?i=bootstrap,mysql,html,css,tailwind,nodejs,express,react,jquery" />
-</div>
-
-<br/>
-<p align="center"> Project learning of Backend tools like Nodejs,Express and React is in progress 👾 </p>
-
-
-<br/>
-
-<img src="https://www.codewars.com/users/nishant-Tiwari24/badges/large" />
+<img align="center" src="https://www.codewars.com/users/nishant-Tiwari24/badges/large" />
 <img src="https://myreadme.vercel.app/api/embed/nishant-Tiwari24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <hr/>
 
