@@ -1,7 +1,3 @@
-<img align="center" src="https://www.codewars.com/users/nishant-Tiwari24/badges/large" />
-<img src="https://myreadme.vercel.app/api/embed/nishant-Tiwari24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<hr/>
-
 <div align="center">
   <h2>🐍 Contributions 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
