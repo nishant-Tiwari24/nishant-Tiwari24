@@ -20,7 +20,7 @@
 
 
 <br/>
-  <h2 align="center">⚡ Current Stats ⚡</h2>
+  <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=nishant-Tiwari24&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
