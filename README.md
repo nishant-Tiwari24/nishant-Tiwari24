@@ -8,8 +8,6 @@
 </p>
 
 </div> -->
-## 10x hackathon winner who builds full-stack AI x Web3 apps at the speed of thought ⚡
-
 |   | 🏆 Hackathon                             | 🎯 Track         | 🥇 Achievement                                    | 💰 Prize                         |
 |----|------------------------------------------|------------------|--------------------------------------------------|----------------------------------|
 | 10 | HackSRM 5.0                              | Web3             | Won Marbalism                                    | $500 USD                         |
