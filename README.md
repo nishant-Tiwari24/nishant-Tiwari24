@@ -18,7 +18,7 @@
 | 5  | Sambanova Lightning Hackathon            | AI               | Community Selected Project                       | $500 USD                         |
 | 4  | American Allegiance of Education         | Education        | Top 10 Winners                                   | $100 USD                         |
 | 3  | Soario: AI Apps for Impact               | AI               | 2nd Place - High School Division                 | $200 USD                         |
-| 2  | Zero to One Hackathon by Convex          | Web3             | Community Selected,                              | $1500 USD                        |
+| 2  | Zero to One Hackathon by Convex          | Web3             | Community Selected                               | $1500 USD                        |
 | 1  | DeFine: Powered by Diamante              | Web3             | Best DeFi Application                            | $2000 DIAM + 200 USDT            |
 
 <div align="center"> 
