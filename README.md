@@ -8,18 +8,7 @@
 </p>
 
 </div> -->
-|   | 🏆 Hackathon                             | 🎯 Track         | 🥇 Achievement                                    | 💰 Prize                         |
-|----|------------------------------------------|------------------|--------------------------------------------------|----------------------------------|
-| 10 | HackSRM 5.0                              | Web3             | Won Marbalism                                    | $500 USD                         |
-| 9  | Hackspiration’24 MLC VIT                 | Web3             | Best Web3 Project (SolidityScan, QuillAudit)     | $2570 USD                        |
-| 8  | DimoHack VIT-AP                          | Web3             | Won Hyperlane, XDC, Lync                         | $533 USD                         |
-| 7  | HackPrix Telangana                       | Open             | Overall Winner & Internship at Catalog           | ₹30,000 INR                      |
-| 6  | Recurzive Hackathon                      | Web3             | NEAR Protocol bounty                             | ₹10,000 INR + $300 USD           |
-| 5  | Sambanova Lightning Hackathon            | AI               | Community Selected Project                       | $500 USD                         |
-| 4  | American Allegiance of Education         | Education        | Top 10 Winners                                   | $100 USD                         |
-| 3  | Soario: AI Apps for Impact               | AI               | 2nd Place - High School Division                 | $200 USD                         |
-| 2  | Zero to One Hackathon by Convex          | Web3             | Community Selected                               | $1500 USD                        |
-| 1  | DeFine: Powered by Diamante              | Web3             | Best DeFi Application                            | $2000 DIAM + 200 USDT            |
+<table align="center"> <thead> <tr> <th>#</th> <th>🏁 Hackathon</th> <th>🎯 Track</th> <th>🥇 Achievement</th> <th>💰 Prize</th> </tr> </thead> <tbody> <tr> <td>10</td> <td>HackSRM 5.0</td> <td>Web3</td> <td>Won Marbalism</td> <td>$500 USD</td> </tr> <tr> <td>9</td> <td>Hackspiration’24 MLC VIT</td> <td>Web3</td> <td>Best Web3 Project (SolidityScan, QuillAudit)</td> <td>$2570 USD</td> </tr> <tr> <td>8</td> <td>DimoHack VIT-AP</td> <td>Web3</td> <td>Won Hyperlane, XDC, Lync</td> <td>$533 USD</td> </tr> <tr> <td>7</td> <td>HackPrix Telangana</td> <td>Open</td> <td>Overall Winner & Internship at Catalog</td> <td>₹30,000 INR</td> </tr> <tr> <td>6</td> <td>Recurzive Hackathon</td> <td>Web3</td> <td>NEAR Protocol bounty</td> <td>₹10,000 INR + $300 USD</td> </tr> <tr> <td>5</td> <td>Sambanova Lightning Hackathon</td> <td>AI</td> <td>Community Selected Project</td> <td>$500 USD</td> </tr> <tr> <td>4</td> <td>American Allegiance of Education</td> <td>Education</td> <td>Top 10 Winners</td> <td>$100 USD</td> </tr> <tr> <td>3</td> <td>Soario: AI Apps for Impact</td> <td>AI</td> <td>2nd Place - High School Division</td> <td>$200 USD</td> </tr> <tr> <td>2</td> <td>Zero to One Hackathon by Convex</td> <td>Web3</td> <td>Community Selected</td> <td>$1500 USD</td> </tr> <tr> <td>1</td> <td>DeFine: Powered by Diamante</td> <td>Web3</td> <td>Best DeFi Application</td> <td>$2000 DIAM + 200 USDT</td> </tr> </tbody> </table>
 
 <div align="center"> 
 <h2 align="center">Leetcode Info<h2>  
