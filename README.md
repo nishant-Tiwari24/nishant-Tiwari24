@@ -32,7 +32,4 @@
 ├── Soario: AI Apps for Impact  AI    2nd, High School · $200
 ├── Zero to One by Convex       Web3  Community Selected · $1,500
 └── DeFine by Diamante          Web3  Best DeFi App · 2,000 DIAM + 200 USDT
-
-~/leetcode
-└── its-nishant320           100 + 200 day badges · Feb + Mar 2024 dailies
 ```
