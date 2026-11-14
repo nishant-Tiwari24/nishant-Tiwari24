@@ -1,29 +1,36 @@
-## Hi, I'm Nishant Tiwari
+```
+███╗   ██╗██╗███████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗
+████╗  ██║██║██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝
+██╔██╗ ██║██║███████╗███████║███████║██╔██╗ ██║   ██║
+██║╚██╗██║██║╚════██║██╔══██║██╔══██║██║╚██╗██║   ██║
+██║ ╚████║██║███████║██║  ██║██║  ██║██║ ╚████║   ██║
+╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝
+```
 
-I build developer tools and open-source resources for students cracking placements, and I win hackathons on the side (10 so far). Based in Secunderabad.
+```yaml
+whoami:    Nishant Tiwari · builds dev tools and open-source placement resources · Secunderabad
+building:  cracked, Claude skills for getting hired (mock interviews, OAs, resume roasts)
+stack:     [TypeScript, JavaScript, Python, C++, Rust, React, FastAPI]
+wins:      10 hackathons (Web3 + AI)
+contact:   instagram.com/lapoz.app
+```
 
-**Currently:** building [cracked](https://github.com/nishant-Tiwari24/cracked), Claude skills for getting hired: company-wise mock interviews, OAs with hidden tests and resume roasts for 470+ companies, straight from your terminal.
+### ~/projects
+```
+├── cracked                  Claude skills for getting hired, 470+ companies
+├── company-wise-dsa         DSA questions by company + LeetCode links   5.9k★
+├── coding-resources         month-by-month CS roadmap, free resources   3.6k★
+├── company-wise-projects    project ideas for the company you target    2.2k★
+├── skills-for-hackathon     how to build fast and win hackathons         696★
+├── upi-cryptoconnect        crypto + UPI payments in one app (Recurzive)
+├── medical-rag              local RAG over PubMed + patient data
+├── deepresearcher-v1        local AI research agent for PDFs and docs
+├── veil                     anonymous browser on Tor onion routing
+└── rockets                  Vercel-style deploy service on S3 + Redis
+```
+[cracked](https://github.com/nishant-Tiwari24/cracked) · [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa) · [coding-resources](https://github.com/nishant-Tiwari24/coding-resources) · [company-wise-projects](https://github.com/nishant-Tiwari24/company-wise-projects) · [skills-for-hackathon](https://github.com/nishant-Tiwari24/skills-for-hackathon) · [upi-cryptoconnect](https://github.com/nishant-Tiwari24/upi-cryptoconnect) · [medical-rag](https://github.com/nishant-Tiwari24/medical-rag) · [deepresearcher-v1](https://github.com/nishant-Tiwari24/deepresearcher-v1) · [veil](https://github.com/nishant-Tiwari24/veil) · [rockets](https://github.com/nishant-Tiwari24/rockets)
 
-### Open source that students use
-
-| Repo | What it is | Stars |
-|---|---|---|
-| [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa) | Company-wise DSA questions with LeetCode links, pattern tricks, HR contacts and internship calendars | 5.9k |
-| [coding-resources](https://github.com/nishant-Tiwari24/coding-resources) | A month-by-month roadmap for CS students, with curated free resources | 3.6k |
-| [company-wise-projects](https://github.com/nishant-Tiwari24/company-wise-projects) | Project ideas tailored to the exact company you're applying to | 2.2k |
-| [skills-for-hackathon](https://github.com/nishant-Tiwari24/skills-for-hackathon) | The skills, tools and strategies to build fast and win hackathons | 696 |
-| [cracked](https://github.com/nishant-Tiwari24/cracked) | Interview and resume skills for 470+ companies, from your terminal | 297 |
-
-### Things I've built
-
-- [upi-cryptoconnect](https://github.com/nishant-Tiwari24/upi-cryptoconnect): crypto and regular payments under one roof through UPI (built at Recurzive, national level)
-- [medical-rag](https://github.com/nishant-Tiwari24/medical-rag): a local medical RAG system over PubMed research and patient data, no API keys
-- [deepresearcher-v1](https://github.com/nishant-Tiwari24/deepresearcher-v1): a local AI research agent for PDFs, DOCX and HTML
-- [veil](https://github.com/nishant-Tiwari24/veil): an anonymous browser built on Tor onion routing
-- [rockets](https://github.com/nishant-Tiwari24/rockets): a Vercel-style deployment service (upload, deploy, route handler) on S3 and Redis
-
-### Hackathons and achievements
-
+### ~/hackathons
 | # | Hackathon | Track | Achievement | Prize |
 |---|---|---|---|---|
 | 10 | HackSRM 5.0 | Web3 | Won Marbalism | $500 USD |
@@ -37,6 +44,7 @@ I build developer tools and open-source resources for students cracking placemen
 | 2 | Zero to One Hackathon by Convex | Web3 | Community Selected | $1,500 USD |
 | 1 | DeFine: Powered by Diamante | Web3 | Best DeFi Application | 2,000 DIAM + 200 USDT |
 
-Also: LeetCode badges for 100 and 200 days in 2024 and the February and March 2024 daily challenges ([its-nishant320](https://leetcode.com/its-nishant320/)).
-
-**Reach me:** [Instagram: lapoz.app](https://instagram.com/lapoz.app)
+```bash
+$ cat leetcode.txt
+100 + 200 day badges (2024) · Feb + Mar 2024 daily badges · leetcode.com/its-nishant320
+```
