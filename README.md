@@ -33,19 +33,6 @@
 ├── Zero to One by Convex       Web3  Community Selected · $1,500
 └── DeFine by Diamante          Web3  Best DeFi App · 2,000 DIAM + 200 USDT
 
-~/projects
-├── cracked                  Claude skills for getting hired, 470+ companies
-├── company-wise-dsa         DSA questions by company + LeetCode links   5.9k★
-├── coding-resources         month-by-month CS roadmap, free resources   3.6k★
-├── company-wise-projects    project ideas for the company you target    2.2k★
-├── skills-for-hackathon     how to build fast and win hackathons         696★
-├── upi-cryptoconnect        crypto + UPI payments in one app (Recurzive)
-├── medical-rag              local RAG over PubMed + patient data
-├── deepresearcher-v1        local AI research agent for PDFs and docs
-├── veil                     anonymous browser on Tor onion routing
-└── rockets                  Vercel-style deploy service on S3 + Redis
-
 ~/leetcode
 └── its-nishant320           100 + 200 day badges · Feb + Mar 2024 dailies
 ```
-[cracked](https://github.com/nishant-Tiwari24/cracked) · [company-wise-dsa](https://github.com/nishant-Tiwari24/company-wise-dsa) · [coding-resources](https://github.com/nishant-Tiwari24/coding-resources) · [company-wise-projects](https://github.com/nishant-Tiwari24/company-wise-projects) · [skills-for-hackathon](https://github.com/nishant-Tiwari24/skills-for-hackathon) · [upi-cryptoconnect](https://github.com/nishant-Tiwari24/upi-cryptoconnect) · [medical-rag](https://github.com/nishant-Tiwari24/medical-rag) · [deepresearcher-v1](https://github.com/nishant-Tiwari24/deepresearcher-v1) · [veil](https://github.com/nishant-Tiwari24/veil) · [rockets](https://github.com/nishant-Tiwari24/rockets)
